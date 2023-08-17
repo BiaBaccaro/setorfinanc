@@ -2,10 +2,22 @@ body{
     align-items: center;
 }
 
-.resume{
-    text-align: center;
+
+.retangulo{
+    width: 550px; /* Largura do retângulo */
+    height: 500px; /* Altura do retângulo */
+    background-color: rgb(193, 180, 180); /* Cor de fundo do retângulo */
+    border-radius: 5%;
+    margin-top: 3em;
+    margin-left: 2%;
+    position: relative;
+    display: inline-block;
 }
 
-.newItem{
+h1{
     text-align: center;
+    color: gray;
+    background-color: rgba(231, 231, 231, 0.505);
 }
+
+
